@@ -1,7 +1,7 @@
 # <a href="https://github.com/YosagiGames/CaosCruiser/wiki"> Projeto Caos Cruiser </a> 
 <img width ="400" src="https://github.com/user-attachments/assets/e73194bf-35af-44b6-ac82-594c30d860e6">
 
-- "futura capa do jogo"
+- "futura capa do jogo" (para desenhar)
 
 
 # Wikis do projeto
