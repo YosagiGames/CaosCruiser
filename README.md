@@ -1,4 +1,4 @@
-# <a href="https://github.com/YosagiGames/CaosCruiser/wiki/Nosso-Projeto!"> Projeto Caos Cruiser </a> 
+# <a href="https://github.com/YosagiGames/CaosCruiser/wiki"> Projeto Caos Cruiser </a> 
 
 ### Wiki
 
