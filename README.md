@@ -4,7 +4,7 @@
 - "futura capa do jogo" (para desenhar)
 
 
-# Wikis do projeto
+# Wiki do Projeto
 
 ## Nosso Universo
 - <a href="https://github.com/YosagiGames/CaosCruiser/wiki/Enredo-e-Narrativa"> Enredo e Narrativa </a>
