@@ -20,4 +20,4 @@
 
 ## Desenvolvimento 
 - <a href="https://github.com/YosagiGames/CaosCruiser/wiki/Level-Design"> Level Design </a>
-- <a href="https://github.com/YosagiGames/CaosCruiser/wiki/Desenvolvimento-e-Programação-C%23"> Programações </a>
+- <a href="https://github.com/YosagiGames/CaosCruiser/wiki/Desenvolvimento"> Programações </a>
